@@ -53,11 +53,11 @@ password: 12345678
 ### How to use
 1. Clone the repo
     ```
-    git clone https://github.com/tsengm6h6/chat-app-client-v2.git
+    git clone https://github.com/livebcdev0603/realtime-chat-frontend.git
     ```
 2. Enter the directory
     ```
-    cd chat-app-client-v2
+    cd realtime-chat-frontend
     ```
 3. Install dependencies
     ```
